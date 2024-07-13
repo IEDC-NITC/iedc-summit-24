@@ -1,0 +1,1 @@
+$sql = "SELECT `id`,'uid', `workshop_title`,`workshop_title_malayalam`,`workshop_details`,`workshop_date_time`,`workshop_duration`,`workshop_online_channel`,`workshop_link`,`channel_icon_img`,`workshop_authors_quoete`,`created_on`,`updated_on`,`updated_by`,`channel_icon_img`,`workshop_authors_quoete`,`created_on`,`updated_on`,`updated_by`  FROM `workshops` ";
